@@ -1,0 +1,44 @@
+.footer{
+    background-color:rgb(5, 5, 5);
+    padding-top: 30px;
+    height: 300px;
+    margin-top:160px;
+    position:absolute;
+    width: 100%;    
+    left:0;
+}
+.contacts-flex{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 200px;
+    margin-top: 25px;
+    margin-left: 587px;
+}
+.icons-button{
+    background-color:rgb(59, 57, 57);
+    height:40px;
+    width:40px;
+    cursor:pointer;
+    border-radius:10px;
+}
+.icons{
+    height:25px;
+}
+.footer-logo{
+    text-align: center;   
+}
+.address{
+    text-align: center;
+    font-size:14px;
+    margin-top: 10px;
+}
+.copyright{
+    text-align: center;
+    font-size:11px;
+    border-top:1px;
+    border-top-style: solid;
+    border-top-color:white;
+    letter-spacing:5px;
+    margin-top: 30px;
+}
