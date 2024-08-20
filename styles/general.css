@@ -55,6 +55,10 @@ body{
     width:75%;
     border-radius:30px;
 }
+.image-grid1 img,
+.image-grid2 img{
+  transition: all .2s;
+}
 .specialty{
     margin-top:100px;
     margin-left:50px;
