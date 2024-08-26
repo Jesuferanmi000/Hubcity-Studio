@@ -148,22 +148,16 @@ body.no-scroll{
     text-align: center;
     letter-spacing:10px;
 }
-a:link {
+.headings a{
     color:white;
     background-color: transparent;
     text-decoration: none;
   }
   
-  a:visited {
-    color:white;
-    background-color: transparent;
-    text-decoration: none;
-  }
-  
-  a:hover {
+.headings a:hover {
     color:rgb(98, 99, 100);
     background-color: transparent;
-    border-bottom:1px solid moccasin;
+    text-decoration: underline;
   }
   .services{
     display: grid;
